@@ -9,6 +9,6 @@ package abstractioninheritance;
  *
  * @author Taylor
  */
-public class Wizard extends VideoGameCharacter{
+public class Snipe implements FakeAnimal{
     
 }
